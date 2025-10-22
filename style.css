@@ -1,0 +1,27 @@
+body{
+    color:rgb(116, 68, 194);
+    background:rgb(187, 31, 96);
+    margin:0px;
+    font-family:"Libre Baskerville",sans-serif; 
+    
+}
+
+header{
+    border-bottom: solid 2px black;
+    padding:20px;
+    font-size: 32px;
+    color:white
+}
+
+
+
+section{
+    background: pink;
+    padding-bottom: 80px;
+    padding-top:80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada--texto{
+    margin-right: 5%;
+}
