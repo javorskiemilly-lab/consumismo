@@ -31,26 +31,23 @@ h1{
 p{
     font-size:20px;
 }
-.categoria-videos{
- padding-left: 20px;
-padding-rinht: 20px;
-}
-.categoria videos{
+.categorias -video{
     display:flex;
     overflow-x:auto;
     gap:10px;
 }
+
 .categoria{
     padding-left:20px;
     padding-left:20px;
     margin-top:50px;
 }
 .categoria-videos img{
-    opacity:0.5;
+    opacity:0.5;  
     height:200px
 }
 .categoria video img:houver{
-    opacinty:1.0;
+    opacinty:0.1;
     border:1px solid pink;
 }
 .categoria h2{
